@@ -17,7 +17,7 @@
                 role : <input type="text" name="role" value="175cca0310b93021a7d3cfb3e4877ab657"><br> <br>
     custom_displaycourseid : <input type="text" name="custom_displaycourseid" value="XL0N-01O4-40L7-2Y81"><br> <br>
     custom_course_name : <input type="text" name="custom_course_name" value="disaggregated + course aware"><br> <br>
- custom_error_url : <input type="text" name="custom_error_url" value="https://mail.google.com"  /><br> <br>
+ custom_error_url : <input type="text" name="custom_error_url" value="https://www.google.com/"  /><br> <br>
 
 
 
